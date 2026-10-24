@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Vymyslený feed dodávateľa: značky aj produkty sú fiktívne. Zámerne mix EN/CZ, skratky a neúplné dáta. -->
+<SHOP>
+  <SHOPITEM>
+    <ITEM_ID>STX-TR2-42</ITEM_ID>
+    <PRODUCTNAME>STRIDEX TRAIL RUNNER X2 M GRY/ORG</PRODUCTNAME>
+    <DESCRIPTION>Lightweight trail running shoe for technical terrain. Lug outsole 5mm, rock plate, drop 8 mm. Weight 280 g (size 42).</DESCRIPTION>
+    <MANUFACTURER>Stridex</MANUFACTURER>
+    <EAN>8590000000017</EAN>
+    <PRICE_VAT>119.90</PRICE_VAT>
+    <CATEGORYTEXT>Footwear | Running | Trail</CATEGORYTEXT>
+    <PARAM><PARAM_NAME>size</PARAM_NAME><VAL>42</VAL></PARAM>
+    <PARAM><PARAM_NAME>color</PARAM_NAME><VAL>GRY/ORG</VAL></PARAM>
+    <PARAM><PARAM_NAME>upper</PARAM_NAME><VAL>mesh</VAL></PARAM>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>STX-RD5-W38</ITEM_ID>
+    <PRODUCTNAME>Stridex Road Glide 5 W wht</PRODUCTNAME>
+    <DESCRIPTION>Cushioned road running shoe for daily training. Ultralight.</DESCRIPTION>
+    <MANUFACTURER>Stridex</MANUFACTURER>
+    <EAN>8590000000024</EAN>
+    <PRICE_VAT>109.00</PRICE_VAT>
+    <CATEGORYTEXT>Footwear | Running</CATEGORYTEXT>
+    <PARAM><PARAM_NAME>size</PARAM_NAME><VAL>38</VAL></PARAM>
+    <PARAM><PARAM_NAME>color</PARAM_NAME><VAL>WHT</VAL></PARAM>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ALP-HK-30L</ITEM_ID>
+    <PRODUCTNAME>Alpenwerk Hiker 30 batoh</PRODUCTNAME>
+    <DESCRIPTION>Turistický batoh s objemem 30 l, větraná záda, pláštěnka v ceně, kapsa na hydrovak. Hmotnost 1,15 kg.</DESCRIPTION>
+    <MANUFACTURER>Alpenwerk</MANUFACTURER>
+    <EAN>8590000000031</EAN>
+    <PRICE_VAT>89.90</PRICE_VAT>
+    <CATEGORYTEXT>Outdoor > Batohy</CATEGORYTEXT>
+    <PARAM><PARAM_NAME>barva</PARAM_NAME><VAL>modrá</VAL></PARAM>
+    <PARAM><PARAM_NAME>objem</PARAM_NAME><VAL>30 l</VAL></PARAM>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>ALP-SUM-WP-44</ITEM_ID>
+    <PRODUCTNAME>ALPENWERK SUMMIT MID WP M</PRODUCTNAME>
+    <DESCRIPTION>Mid-cut hiking boot, waterproof membrane, suede leather upper, rubber toe cap.</DESCRIPTION>
+    <MANUFACTURER>Alpenwerk</MANUFACTURER>
+    <EAN>8590000000048</EAN>
+    <PRICE_VAT>159.00</PRICE_VAT>
+    <CATEGORYTEXT>Footwear | Hiking</CATEGORYTEXT>
+    <PARAM><PARAM_NAME>size</PARAM_NAME><VAL>44</VAL></PARAM>
+    <PARAM><PARAM_NAME>material</PARAM_NAME><VAL>suede</VAL></PARAM>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>NRD-PEAK-170</ITEM_ID>
+    <PRODUCTNAME>Nordkamm Peak 78 skis 170cm</PRODUCTNAME>
+    <DESCRIPTION>All-mountain ski, waist 78 mm, radius 15 m, wood core. Bindings not included.</DESCRIPTION>
+    <MANUFACTURER>Nordkamm</MANUFACTURER>
+    <EAN>8590000000055</EAN>
+    <PRICE_VAT>349.00</PRICE_VAT>
+    <CATEGORYTEXT>Winter > Ski</CATEGORYTEXT>
+    <PARAM><PARAM_NAME>length</PARAM_NAME><VAL>170 cm</VAL></PARAM>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>NRD-HLM-ML</ITEM_ID>
+    <PRODUCTNAME>Nordkamm Shell helmet M/L blk</PRODUCTNAME>
+    <DESCRIPTION>Ski helmet, in-mold construction, adjustable fit system, removable ear pads. Size M/L (56-59 cm).</DESCRIPTION>
+    <MANUFACTURER>Nordkamm</MANUFACTURER>
+    <EAN>8590000000062</EAN>
+    <PRICE_VAT>79.00</PRICE_VAT>
+    <CATEGORYTEXT>Winter > Helmets</CATEGORYTEXT>
+    <PARAM><PARAM_NAME>size</PARAM_NAME><VAL>M/L</VAL></PARAM>
+    <PARAM><PARAM_NAME>color</PARAM_NAME><VAL>BLK</VAL></PARAM>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>NRD-JKT-W-S</ITEM_ID>
+    <PRODUCTNAME>Nordkamm Powder Jacket W S</PRODUCTNAME>
+    <DESCRIPTION>Women's insulated ski jacket, 10k/10k membrane, powder skirt, helmet compatible hood.</DESCRIPTION>
+    <MANUFACTURER>Nordkamm</MANUFACTURER>
+    <EAN>8590000000079</EAN>
+    <PRICE_VAT>199.00</PRICE_VAT>
+    <CATEGORYTEXT>Winter > Apparel</CATEGORYTEXT>
+    <PARAM><PARAM_NAME>size</PARAM_NAME><VAL>S</VAL></PARAM>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>VEL-AERO-58</ITEM_ID>
+    <PRODUCTNAME>Velora Aero road helmet 54-58</PRODUCTNAME>
+    <DESCRIPTION>Road cycling helmet, 18 vents, weight 245 g, magnetic buckle.</DESCRIPTION>
+    <MANUFACTURER>Velora</MANUFACTURER>
+    <EAN>8590000000086</EAN>
+    <PRICE_VAT>129.00</PRICE_VAT>
+    <CATEGORYTEXT>Cycling | Helmets</CATEGORYTEXT>
+    <PARAM><PARAM_NAME>head circumference</PARAM_NAME><VAL>54-58 cm</VAL></PARAM>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>VEL-JRS-M</ITEM_ID>
+    <PRODUCTNAME>Velora cyklo dres pánsky M</PRODUCTNAME>
+    <DESCRIPTION>Cyklistický dres s krátkym rukávom, celý zips, 3 zadné vrecká. Materiál polyester.</DESCRIPTION>
+    <MANUFACTURER>Velora</MANUFACTURER>
+    <EAN>8590000000093</EAN>
+    <PRICE_VAT>59.90</PRICE_VAT>
+    <CATEGORYTEXT>Cycling | Apparel</CATEGORYTEXT>
+    <PARAM><PARAM_NAME>size</PARAM_NAME><VAL>M</VAL></PARAM>
+    <PARAM><PARAM_NAME>material</PARAM_NAME><VAL>100% PES</VAL></PARAM>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>KRF-KB-16</ITEM_ID>
+    <PRODUCTNAME>Kraftfeld kettlebell 16kg</PRODUCTNAME>
+    <DESCRIPTION>Cast iron kettlebell with powder coat finish. Flat base.</DESCRIPTION>
+    <MANUFACTURER>Kraftfeld</MANUFACTURER>
+    <EAN>8590000000109</EAN>
+    <PRICE_VAT>54.00</PRICE_VAT>
+    <CATEGORYTEXT>Fitness</CATEGORYTEXT>
+    <PARAM><PARAM_NAME>weight</PARAM_NAME><VAL>16 kg</VAL></PARAM>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>KRF-LEG-W-XS</ITEM_ID>
+    <PRODUCTNAME>Kraftfeld Flex 7/8 legíny dámské XS</PRODUCTNAME>
+    <DESCRIPTION>Elastické legíny s vysokým pasem, skrytá kapsa, neprůhledný materiál.</DESCRIPTION>
+    <MANUFACTURER>Kraftfeld</MANUFACTURER>
+    <EAN>8590000000116</EAN>
+    <PRICE_VAT>44.90</PRICE_VAT>
+    <CATEGORYTEXT>Fitness | Oblečení</CATEGORYTEXT>
+    <PARAM><PARAM_NAME>velikost</PARAM_NAME><VAL>XS</VAL></PARAM>
+    <PARAM><PARAM_NAME>materiál</PARAM_NAME><VAL>78 % polyamid, 22 % elastan</VAL></PARAM>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>PLS-FB-5</ITEM_ID>
+    <PRODUCTNAME>Pulsar Match football sz5</PRODUCTNAME>
+    <DESCRIPTION>Thermo-bonded match ball for training and matches.</DESCRIPTION>
+    <MANUFACTURER>Pulsar</MANUFACTURER>
+    <EAN>8590000000123</EAN>
+    <PRICE_VAT>34.90</PRICE_VAT>
+    <CATEGORYTEXT>Team sports > Balls</CATEGORYTEXT>
+    <PARAM><PARAM_NAME>size</PARAM_NAME><VAL>5</VAL></PARAM>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>STX-BELT-U</ITEM_ID>
+    <PRODUCTNAME>Stridex run belt</PRODUCTNAME>
+    <DESCRIPTION>Running waist belt for phone and keys, reflective details.</DESCRIPTION>
+    <MANUFACTURER>Stridex</MANUFACTURER>
+    <EAN>8590000000130</EAN>
+    <PRICE_VAT>19.90</PRICE_VAT>
+    <CATEGORYTEXT>Running | Accessories</CATEGORYTEXT>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>PLS-SUP-10</ITEM_ID>
+    <PRODUCTNAME>Pulsar Glide 10'6 inflatable SUP</PRODUCTNAME>
+    <DESCRIPTION>Inflatable stand up paddle board set incl. pump, paddle and leash.</DESCRIPTION>
+    <MANUFACTURER>Pulsar</MANUFACTURER>
+    <EAN>8590000000147</EAN>
+    <PRICE_VAT>399.00</PRICE_VAT>
+    <CATEGORYTEXT>Water sports</CATEGORYTEXT>
+  </SHOPITEM>
+</SHOP>
