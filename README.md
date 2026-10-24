@@ -35,6 +35,8 @@ Po AI ešte všetko vidí človek: pôvodné dáta a návrh AI vedľa seba, kaž
 - **WooCommerce REST API** (`wc/v3`): produkty sa založia ako **koncepty**. Kategórie sa dohľadajú alebo vytvoria aj s nadradenou kategóriou. Prihlásenie cez WordPress Application Password.
 - **CSV pre importér WooCommerce** (Produkty → Importovať), ak priame napojenie nie je možné.
 
+Export je oddelený od AI časti. WooCommerce je tu ukážkový cieľ: na iný e-shop (vlastné CMS cez API alebo import súboru) stačí napísať jednu triedu podľa vzoru `WooCommerceClient`. Spracovanie aj kontrola ostávajú rovnaké.
+
 Na prehľade feedu sa ukazuje aj spotreba tokenov a cena za AI, ak je v `.env` zadaný cenník.
 
 ## Spustenie
